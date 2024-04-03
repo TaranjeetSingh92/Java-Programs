@@ -1,7 +1,7 @@
 package OOP;
 class Demo
 {
-    int avg;    //instance variable heap
+    int avg;    //instance variable heap 
     int age;    //instance variable heap
     void disp() //stack
     {
