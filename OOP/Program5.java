@@ -11,7 +11,7 @@ class Stackoverflow
         
     }
 }
-public class Program6 {
+public class Program5 {
     public static void main(String[] args) {
         Stackoverflow obj=new Stackoverflow();
         obj.disp();

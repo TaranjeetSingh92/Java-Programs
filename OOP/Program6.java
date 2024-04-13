@@ -1,4 +1,4 @@
-package OOP;
+//package OOP;
 //Overloading main method
 public class Program6 {
     public static void main(String[] args) {
